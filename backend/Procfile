@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT first_react_app_3933.wsgi:application
